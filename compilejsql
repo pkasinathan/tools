@@ -1,0 +1,1 @@
+flex -i sqlb.l; cc -o sqlb lex.yy.c -lfl; rm lex.yy.c
